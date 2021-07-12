@@ -2,6 +2,7 @@
 
 EndPoint DTO: http://host/Pessoa/findDTO - Método GET
 Parâmetro enviado: NENHUM
+Colunas escolhidas para retornar na classe DTO: Nome e DataNascimento
 
 EndPoint Find: http://host/Pessoa/find - Método GET
 Parâmetros:
